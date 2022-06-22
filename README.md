@@ -36,10 +36,10 @@ demo地址: https://fabu.apppills.com/
 #### 使用docker运行（建议）
 
 > ps：请先安装docker
-1. 下载源码  `git clone https://github.com/HeadingMobile/fabu.love.git`
+1. 下载源码  `git clone https://github.com/github-liuliang/fabu.love.git`
 2. 执行`cd docker`
 3. 执行`docker-compose up -d --build`
-4. 打开浏览器 http://0.0.0.0:9898
+4. 打开浏览器 http://ip:9898
 
 
 #### 本地运行
